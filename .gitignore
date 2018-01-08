@@ -1,5 +1,11 @@
 
-/Debug
-
+# Object Files 
+*.a
+*.o
+*.exe
+*.out
+*.bin
+*.map
+*/Debug
 /.settings
 
