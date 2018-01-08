@@ -1,0 +1,2 @@
+osThreadId defaultTaskHandle;
+osThreadId blinkLED1TaskHandle;

@@ -1,0 +1,12 @@
+/* StartTask02 function */
+void StartTask02(void const * argument)
+{
+#t/* USER CODE BEGIN StartTask02 */
+#t/* Infinite loop */
+#tfor(;;)
+#t{
+#t#tosDelay(1);
+#t}
+#t/* USER CODE END StartTask02 */
+}
+#n
